@@ -106,7 +106,7 @@ var lyr_Bdy_spm_6 = new ol.layer.Vector({
 var group_SPM = new ol.layer.Group({
                                 layers: [lyr_Flood_2,lyr_Drought_3,lyr_Stm_spm_4,lyr_Lu_spm_5,lyr_Bdy_spm_6,],
                                 fold: 'open',
-                                title: 'SPM'});
+                                title: 'ชั้นข้อมูลทั้งหมด'});
 
 lyr_GoogleMaps_0.setVisible(true);lyr_GoogleSatellite_1.setVisible(true);lyr_Flood_2.setVisible(true);lyr_Drought_3.setVisible(true);lyr_Stm_spm_4.setVisible(true);lyr_Lu_spm_5.setVisible(true);lyr_Bdy_spm_6.setVisible(true);
 var layersList = [lyr_GoogleMaps_0,lyr_GoogleSatellite_1,group_SPM];
