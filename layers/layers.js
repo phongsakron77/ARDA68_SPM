@@ -82,7 +82,7 @@ var lyr_Lu_spm_5 = new ol.layer.Vector({
                 style: style_Lu_spm_5,
                 popuplayertitle: 'Lu_spm',
                 interactive: true,
-    title: 'Lu_spm<br />\
+    title: 'การใช้ประโยชน์ที่ดิน<br />\
     <img src="styles/legend/Lu_spm_5_0.png" /> พื้นที่เกษตร<br />\
     <img src="styles/legend/Lu_spm_5_1.png" /> พื้นที่ป่า<br />\
     <img src="styles/legend/Lu_spm_5_2.png" /> พื้นที่เบ็ดเตล็ด<br />\
